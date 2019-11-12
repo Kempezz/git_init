@@ -6,5 +6,7 @@ public class Main {
         System.out.println("Publikujemy pierwszy program!!!");
         System.out.println("zmiana!!!");
         System.out.println("Edycja przez współpracownika!!!");
+        System.out.println("Nowa funkcjonalność projektu");
+        
     }
 }
